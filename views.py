@@ -154,7 +154,7 @@ import pymongo
 
 client = pymongo.MongoClient(
 
-    'mongodb+srv://jtmobs1:TeflonjaY1960@miningweb.xam1z.mongodb.net/?retryWrites=true&w=majority'
+    'mongodb+srv://@miningweb.xam1z.mongodb.net/?retryWrites=true&w=majority'
 )
 
 # Define DB Name
